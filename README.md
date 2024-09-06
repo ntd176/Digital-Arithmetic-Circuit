@@ -7,3 +7,4 @@ A half adder is a digital logic circuit that performs binary addition of two sin
 **Truth Table**
 
 ![Truth Table Half Adder](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2015/07/ha_truth-300x235.png)
+
