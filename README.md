@@ -37,6 +37,7 @@ Similar to HA circuit, we design the FA circuit. Full Adder is the adder that ad
 **Shorten using a Karnaugh Map**
 
 S = A xor B xor Cin
+
 Cout = A and B + A and Cin + B and Cin
 
 *Full Adder Logic Circuit:*
