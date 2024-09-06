@@ -24,5 +24,5 @@ Cout = A and B
 
 Therefore we have the following logic diagram
 
-![HF logic cỉrcuit](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Half_Adder.jpg)
+![HF logic cỉrcuit](https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.15752-9/458491565_1306045800802605_8083061287312802539_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=JRbxdziXYCoQ7kNvgFkw--G&_nc_ht=scontent.fsgn5-3.fna&oh=03_Q7cD1QEaBdBqNBJYABLrSIzT_UYOL_HxkQmLnDagvodO2vSNjQ&oe=6701D854)
 
