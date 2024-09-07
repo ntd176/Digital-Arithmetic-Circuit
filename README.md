@@ -78,4 +78,9 @@ Diff = xy'z' + x'y'z + xyz + x'yz'
 
 ![b1-FS-Kmap](https://javatpoint-images.s3.eu-north-1.amazonaws.com/tutorial/digital-electronics/images/full-subtractor3.png)
 
+Borrow = x'z + x'y + yz
 
+![b2-FS-Kmap](https://javatpoint-images.s3.eu-north-1.amazonaws.com/tutorial/digital-electronics/images/full-subtractor4.png)
+
+*Full Subtractor Logic Circuit:*
+![FS circuit](https://scontent-hkg1-2.xx.fbcdn.net/v/t1.15752-9/457804709_1463741020972293_4370423759960450823_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AWt0KGJ-GQIQ7kNvgGSoOU5&_nc_ht=scontent-hkg1-2.xx&oh=03_Q7cD1QF9nrF1-YmDzkgvSzFDt7aVhrvG1-sDZzlmYu-LDf0maw&oe=67039691)
