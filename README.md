@@ -2,21 +2,21 @@
 ### Index
 [1. Half Adder](#HalfAdder)
 
-[2. Full Adder](#2)
+[2. Full Adder](#FullAdder)
 
-[3. Full Subtractor](#3)
+[3. Full Subtractor](#FullSubtractor)
 
-[4. Multiple](#4)
+[4. Multiple](#Mutiple)
 
-[5. Compare 1 Bit](#5)
+[5. Compare 1 Bit](#Compare1)
 
-[6. Compare 4 Bit](#6)
+[6. Compare 4 Bit](#Compare4)
 
-[7. Decoder 3 To 8](#7)
+[7. Decoder 3 To 8](#Decoder)
 
-[8. Multiplexer 8 To 1](#8)
+[8. Multiplexer 8 To 1](#Multiplexer)
 
-[9. ALU 1 Bit](#9)
+[9. ALU 1 Bit](#ALU)
 
 <a name="HalfAdder"></a>
 # **1. HALF ADDER**
@@ -45,15 +45,16 @@ Therefore we have the following logic diagram
 
 ![HA logic cỉrcuit](https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.15752-9/458491565_1306045800802605_8083061287312802539_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=JRbxdziXYCoQ7kNvgFkw--G&_nc_ht=scontent.fsgn5-3.fna&oh=03_Q7cD1QEaBdBqNBJYABLrSIzT_UYOL_HxkQmLnDagvodO2vSNjQ&oe=6701D854)
 
-
+<a name="FullAdder"></a>
+# **2. FULL ADDER**
 
 Similar to HA circuit, we design the FA circuit. Full Adder is the adder that adds three inputs and produces two outputs. The first two inputs are A and B and the third input is an input is an input carry as CIn. The output Carry is designated as Cout and the normal output is designated as S which is Sum.
 
-**Full Adder Truth Table**
+## **a. Full Adder Truth Table**
 
 ![Truth Table FA](https://media.geeksforgeeks.org/wp-content/uploads/2-41.jpg)
 
-**Shorten using a Karnaugh Map**
+## **b. Shorten using a Karnaugh Map**
 
 S = A xor B xor Cin
 
