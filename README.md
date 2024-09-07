@@ -74,5 +74,8 @@ The full substractor is used to substract three 1-bit numbers A, B and C, which 
 
 ## **b. The SOP form can be obtained with the help of K-map as:**
 
+Diff = xy'z' + x'y'z + xyz + x'yz'
+
 ![b1-FS-Kmap](https://javatpoint-images.s3.eu-north-1.amazonaws.com/tutorial/digital-electronics/images/full-subtractor3.png)
+
 
