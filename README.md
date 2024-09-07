@@ -1,7 +1,22 @@
 # Digital-Arithmetic-Circuit
 ### Index
-[I. Half Adder](#1)
-[II. Full Adder](#2)
+[1. Half Adder](#1)
+
+[2. Full Adder](#2)
+
+[3. Full Subtractor](#3)
+
+[4. Multiple](#4)
+
+[5. Compare 1 Bit](#5)
+
+[6. Compare 4 Bit](#6)
+
+[7. Decoder 3 To 8](#7)
+
+[8. Multiplexer 8 To 1](#8)
+
+[9. ALU 1 Bit](#9)
 
 A half adder is a digital logic circuit that performs binary addition of two single-bit binary numbers. It has two inputs, A and B, and two outputs SUM and Cout. Half adder logic circuits have no memory e.g 1+0; 0+1; 0+0.
 
