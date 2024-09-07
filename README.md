@@ -19,7 +19,7 @@
 [9. ALU 1 Bit](#9)
 
 <a name="HalfAdder"></a>
-**1. HALF ADDER**
+# **1. HALF ADDER**
 
 A half adder is a digital logic circuit that performs binary addition of two single-bit binary numbers. It has two inputs, A and B, and two outputs SUM and Cout. Half adder logic circuits have no memory e.g 1+0; 0+1; 0+0.
 
