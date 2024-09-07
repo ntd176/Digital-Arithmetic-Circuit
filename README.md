@@ -63,12 +63,12 @@ Cout = A and B + A and Cin + B and Cin
 *Full Adder Logic Circuit:*
 ![FA circuit](https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.15752-9/457144476_2285165731823601_1387343090934048772_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=dR2cok22UPIQ7kNvgGKe3bb&_nc_ht=scontent.fsgn5-3.fna&oh=03_Q7cD1QEnBzCQaQMtrCCKY1pZ8vz49XNDAwa_e1_Bue6v2pAqaw&oe=6701DA0D)
 
-<a name="FullSubstractor"></a>
-# **3. FULL SUBSTRACTOR**
+<a name="FullSubtractor"></a>
+# **3. FULL SUBTRACTOR**
 
 The full substractor is used to substract three 1-bit numbers A, B and C, which are minuend, subtrahend and borrow. The full substractor has three input states and two output states.
 
-## **a. Full Substractor Truth Table**
+## **a. Full Subtractor Truth Table**
 
 ![Truth Table FS](https://javatpoint-images.s3.eu-north-1.amazonaws.com/tutorial/digital-electronics/images/full-subtractor2.png)
 
