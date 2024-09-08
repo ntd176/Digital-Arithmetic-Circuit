@@ -96,14 +96,14 @@ We have 2 3-bit numbers A and B multiplied together; when written in detail, we 
                    
                     B2    B1    B0
                  
-                  ````````````````
+               ~~~~~~~~~~~~~~~~~~~
                  
                   A2B0  A1B0  A0B0
             
             A2B1  A1B1  A0B1
     
      A2B2   A1B2  A0B2
-``````````````````````````````````
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 S5   S4     S3    S2    S1    S0
 
 S0 = A0.B0
