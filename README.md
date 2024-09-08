@@ -89,6 +89,7 @@ Borrow = x'z + x'y + yz
 # **4. MULTIPLE**
 
 We have 2 3-bit numbers A and B multiplied together; when written in detail, we will have the following expression:
+                    
                     A2    A1    A0
                  
                   x
@@ -104,7 +105,6 @@ We have 2 3-bit numbers A and B multiplied together; when written in detail, we 
      A2B2   A1B2  A0B2
 
 ``````````````````````````````````
-
 S5   S4     S3    S2    S1    S0
 
 S0 = A0.B0
