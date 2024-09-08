@@ -6,7 +6,7 @@
 
 [3. Full Subtractor](#FullSubtractor)
 
-[4. Multiple](#Mutiple)
+[4. Multiple](#Multiple)
 
 [5. Compare 1 Bit](#Compare1)
 
@@ -90,12 +90,31 @@ Borrow = x'z + x'y + yz
 
 We have 2 3-bit numbers A and B multiplied together; when written in detail, we will have the following expression:
                     A2    A1    A0
+                 
                   x
+                   
                     B2    B1    B0
+                 
                   ````````````````
+                 
                   A2B0  A1B0  A0B0
+            
             A2B1  A1B1  A0B1
+    
      A2B2   A1B2  A0B2
+
 ``````````````````````````````````
+
 S5   S4     S3    S2    S1    S0
 
+S0 = A0.B0
+
+S1 = A1.B0 + A0.B1
+
+S2 = A2.B0 + A1.B1 + A0.B2
+
+S3 = A2.B1 + A1.B2
+
+S4 = A2.B2
+
+S5 = Carry
