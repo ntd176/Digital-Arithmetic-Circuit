@@ -90,33 +90,7 @@ Borrow = x'z + x'y + yz
 
 We have 2 3-bit numbers A and B multiplied together; when written in detail, we will have the following expression:
                     
-                    A2    A1    A0
-                 
-                  x
-                   
-                    B2    B1    B0
-                 
-               ~~~~~~~~~~~~~~~~~~~
-                 
-                  A2B0  A1B0  A0B0
-            
-            A2B1  A1B1  A0B1
-    
-     A2B2   A1B2  A0B2
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-S5   S4     S3    S2    S1    S0
-
-S0 = A0.B0
-
-S1 = A1.B0 + A0.B1
-
-S2 = A2.B0 + A1.B1 + A0.B2
-
-S3 = A2.B1 + A1.B2
-
-S4 = A2.B2
-
-S5 = Carry
+![Nhan3bit](https://scontent.fsgn5-5.fna.fbcdn.net/v/t1.15752-9/457045366_511072454852020_4928722400135118881_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=_f_jr6IQaUoQ7kNvgGQ9Mi1&_nc_ht=scontent.fsgn5-5.fna&_nc_gid=A61akp7U-4AHP7jeYer-R9X&oh=03_Q7cD1QE-WV51LRWnrfRHpY3-UBeh3D3FZkkfDNm7lWqoqqVi6w&oe=67046A85)                
 
 * Thus, the core circuit is essentially made up of AND gates and HA, HA.
 
