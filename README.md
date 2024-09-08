@@ -117,3 +117,7 @@ S3 = A2.B1 + A1.B2
 S4 = A2.B2
 
 S5 = Carry
+
+Thus, the core circuit is essentially made up of AND gates and HA, HA.
+
+*Multiple Circuit*
