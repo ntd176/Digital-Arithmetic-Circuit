@@ -84,3 +84,18 @@ Borrow = x'z + x'y + yz
 
 *Full Subtractor Logic Circuit:*
 ![FS circuit](https://scontent-hkg1-2.xx.fbcdn.net/v/t1.15752-9/457804709_1463741020972293_4370423759960450823_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AWt0KGJ-GQIQ7kNvgGSoOU5&_nc_ht=scontent-hkg1-2.xx&oh=03_Q7cD1QF9nrF1-YmDzkgvSzFDt7aVhrvG1-sDZzlmYu-LDf0maw&oe=67039691)
+
+<a name="Multiple"></a>
+# **4. MULTIPLE**
+
+We have 2 3-bit numbers A and B multiplied together; when written in detail, we will have the following expression:
+                    A2    A1    A0
+                  x
+                    B2    B1    B0
+                  ````````````````
+                  A2B0  A1B0  A0B0
+            A2B1  A1B1  A0B1
+     A2B2   A1B2  A0B2
+``````````````````````````````````
+S5   S4     S3    S2    S1    S0
+
