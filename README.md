@@ -95,3 +95,5 @@ We have 2 3-bit numbers A and B multiplied together; when written in detail, we 
 * Thus, the core circuit is essentially made up of AND gates and HA, HA.
 
 *Multiple Circuit*
+
+![3bitx3bit](https://scontent.fsgn5-14.fna.fbcdn.net/v/t1.15752-9/456195483_1467870113920365_6514698370964321352_n.png?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=TTOTrfScQk4Q7kNvgE8fxf_&_nc_ht=scontent.fsgn5-14.fna&oh=03_Q7cD1QFAM2VyxSloXtCh0RzpNqgxoqDDeU7EXGqAnp-XkTKvcg&oe=67047E57)
