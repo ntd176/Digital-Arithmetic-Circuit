@@ -100,3 +100,16 @@ We have 2 3-bit numbers A and B multiplied together; when written in detail, we 
 
 <a name="Compare1"></a>
 # **5. COMPARE 1 BIT**
+
+For any number, to compare whether it is equal or not, we will compare each digit of that number. If each digit of that number is equal, it means that the two numbers have equal value. To compare greater than or less than, we will consider each digit in order from the digit with the largest value to the smallest.
+
+*Compare 1 bit Circuit*
+![compare1](https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.15752-9/458196172_559690066388888_5164151413470968349_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=da_-c_XS_SQQ7kNvgGgie-7&_nc_ht=scontent.fsgn5-3.fna&_nc_gid=ANoXD5dcPcNDEEmnLiHGs8T&oh=03_Q7cD1QFPH36a6_E-I4Jn-W2u4PfYCMYgh44vPn6XYQtzA0xB2g&oe=6705F4EE)
+
+<a name="Compare4"></a>
+# **6. COMPARE 4 BIT**
+
+we can now combine several of the above diagrams to create a 4-bit magnitude comparator as follows:
+
+![compare4](https://scontent.fsgn5-10.fna.fbcdn.net/v/t1.15752-9/458979673_1491145984904738_5871116225442271876_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=9nXPG4qUUPoQ7kNvgHDjJ_W&_nc_ht=scontent.fsgn5-10.fna&oh=03_Q7cD1QHviwuMeogrRDI1-vKf5eAYxMLotO5LvpbFPq9NCCIcxA&oe=67060D40)
+
