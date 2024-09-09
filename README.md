@@ -131,6 +131,7 @@ So with the above building blocks, lets construct a simple ALU that performs a a
 ![alu1](https://exploreembedded.com/wiki/images/e/e9/1bitALU.jpg)
 
 *ALU Circuit*
+
 ![alu2](https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.15752-9/457785909_1241925493472196_806310001883413232_n.png?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=3n8_uzVbWAEQ7kNvgGK50ji&_nc_ht=scontent.fsgn5-12.fna&_nc_gid=ALcxF1bB2btNUPllEy76szo&oh=03_Q7cD1QF1gk2zctlPa_E50NmxWEgpyLokSy2eyNypmq-2gZc7QQ&oe=6706121B)
 
 *ALU Truth Table*
