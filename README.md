@@ -113,3 +113,25 @@ we can now combine several of the above diagrams to create a 4-bit magnitude com
 
 ![compare4](https://scontent.fsgn5-10.fna.fbcdn.net/v/t1.15752-9/458979673_1491145984904738_5871116225442271876_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=9nXPG4qUUPoQ7kNvgHDjJ_W&_nc_ht=scontent.fsgn5-10.fna&oh=03_Q7cD1QHviwuMeogrRDI1-vKf5eAYxMLotO5LvpbFPq9NCCIcxA&oe=67060D40)
 
+<a name="Decoder"></a>
+# **7. DECODER 3 TO 8**
+
+![decoder3to8](https://scontent.fsgn5-15.fna.fbcdn.net/v/t1.15752-9/457692844_867126752050703_9208880706017987484_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=8Ct75TpIFXwQ7kNvgETFwV6&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=AllyDnaM-imU6YJpmS1iHVf&oh=03_Q7cD1QHvlTZnruRUtY-YGV1D_cpNHR8HxOrsrUsrj13oDWT59Q&oe=6705FF53)
+
+<a name="Multiplexer"></a>
+# **8. MULTIPLEXER 8 TO 1**
+
+![multiplexer](https://scontent.fsgn5-14.fna.fbcdn.net/v/t1.15752-9/458296681_8553664454643727_8452078112003587354_n.png?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=sdzihsK728MQ7kNvgFQAY75&_nc_ht=scontent.fsgn5-14.fna&_nc_gid=Az-HkYOTNo8iqmHgADR-cD5&oh=03_Q7cD1QENrNSnXYwuqKBKhTU0vCVTRzP0WS-mQuDdu27AikfkFg&oe=6705F488)
+
+<a name="ALU"></a>
+# **9. ALU**
+
+So with the above building blocks, lets construct a simple ALU that performs a arithmetic operation (1 bit addition)and does 3 logical operations namely AND, NOR and XOR as shown below. The multiplexer selects only one operation at a time. The operation selected depends on the selection lines of the multiplexer as shown in the truth table.
+
+![alu1](https://exploreembedded.com/wiki/images/e/e9/1bitALU.jpg)
+
+*ALU Circuit*
+![alu2](https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.15752-9/457785909_1241925493472196_806310001883413232_n.png?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=3n8_uzVbWAEQ7kNvgGK50ji&_nc_ht=scontent.fsgn5-12.fna&_nc_gid=ALcxF1bB2btNUPllEy76szo&oh=03_Q7cD1QF1gk2zctlPa_E50NmxWEgpyLokSy2eyNypmq-2gZc7QQ&oe=6706121B)
+
+*ALU Truth Table*
+![alu3](https://scontent.fsgn5-15.fna.fbcdn.net/v/t1.15752-9/457815829_824542243190949_9182000988480758966_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=TvrIu6YWfVcQ7kNvgFMdY5g&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=AUJc6GcWxwO87UPPTS4jkcY&oh=03_Q7cD1QEOiz9fGgfnp8tlsNAgxmtCuvVru8H8dKwjqcqvJSSvUQ&oe=67060CCC)
